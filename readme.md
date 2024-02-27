@@ -33,7 +33,7 @@ The Hospital Management System is a web application designed to streamline and a
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/hospital-management-system.git`
+1. Clone the repository: `git clone https://github.com/agnidipta21/Wellware.git`
 2. Install the dependencies: `npm install`
 3. Set up the database connection in the `config/db.js` file.
 4. Start the application: `npm start`
