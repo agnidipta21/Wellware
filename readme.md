@@ -1,6 +1,6 @@
 ## Backend NodeJs Development
 
-  ![](https://img.shields.io/badge/NodeJs-ebdcff?style=flat&logo=node.js&logoColor=black) ![](https://img.shields.io/badge/ExpressJs-ebdcff?style=flat&logo=express&logoColor=black) ![](https://img.shields.io/badge/Javascript-ebdcff?style=flat&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/MongoDB-ebdcff?style=flat&logo=mongodb&logoColor=black) ![](https://img.shields.io/badge/Mogoose-ebdcff?style=flat&logo=mongoose&logoColor=black)
+  ![](https://img.shields.io/badge/NodeJs-ebdcff?style=flat&logo=node.js&logoColor=black) ![](https://img.shields.io/badge/ExpressJs-ebdcff?style=flat&logo=express&logoColor=black) ![](https://img.shields.io/badge/Javascript-ebdcff?style=flat&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/MongoDB-ebdcff?style=flat&logo=mongodb&logoColor=black) ![](https://img.shields.io/badge/Mongoose-ebdcff?style=flat&logo=mongoose&logoColor=black)
   
   
  
